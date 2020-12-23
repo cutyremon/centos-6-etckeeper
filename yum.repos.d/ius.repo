@@ -1,0 +1,5 @@
+[ius]
+baseurl = https://repo.ius.io/6/$basearch/
+gpgkey = https://repo.ius.io/RPM-GPG-KEY-IUS-6
+name = IUS for Enterprise Linux 6 - $basearch
+

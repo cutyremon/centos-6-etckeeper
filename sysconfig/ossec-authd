@@ -1,0 +1,11 @@
+# OSSEC-HIDS authd options
+#
+# Password authentication
+# -n disable password authentication
+# Password authentication is defined in:
+#   /var/ossec/etc/authd.pass
+#
+# Port configuration
+# -p <port>
+
+OPTIONS="-p 1515 "
